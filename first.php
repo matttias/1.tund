@@ -9,6 +9,6 @@
 	echo "$name";
 	echo " ";
 	echo "$time";
-echo $firstName." ".lastName;
+echo $firstName." ".$lastName;
 //punkt liidab stringe
 ?>
